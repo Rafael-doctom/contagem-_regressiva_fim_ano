@@ -1,0 +1,14 @@
+#content{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: monospace;
+}
+
+.count{
+    padding: 1rem;
+    background-color: aquamarine;
+    margin:5px;
+}
